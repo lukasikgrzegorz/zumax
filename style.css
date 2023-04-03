@@ -2,6 +2,7 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+  transition: outline 2s;
 }
 
 body{
@@ -37,11 +38,11 @@ body{
   background-color: white;
   border-radius: 50%;
   display: inline-block;
-  outline: 10px solid pink;
+  outline: 15px solid pink;
 }
 
 .zuFocusEye{
-  outline: 15px solid pink;
+  outline: 25px solid pink;
 }
 
 .zuSmile{
